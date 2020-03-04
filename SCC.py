@@ -61,8 +61,5 @@ def main():
             dfs(G, i, visited, finish, start)
             print()
 
-    print(Grev)
-    print(G)
-
 if __name__ == '__main__':
     main()
